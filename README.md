@@ -6,7 +6,8 @@
 
 Welcome to my personal portfolio website! This project is a responsive, multi-page portfolio built using only HTML and CSS. It showcases my background, technical skills, design ability, and creative work as a Web Developer and Graphic Designer from Nairobi, Kenya.
 
-Live Preview: 🌐 View Website
+Live Preview: 🌐 [View Website](https://samuel-muthunga.github.io/July-2025-cohort-plp-hackathon/)
+
 Design Philosophy: Clean, elegant, and accessible interfaces that blend creativity with logic.
 
 📁 Project Structure
